@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="text-center text-gray-500">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more.
       </p>
     </>
   )
